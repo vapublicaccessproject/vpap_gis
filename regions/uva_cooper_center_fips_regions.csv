@@ -1,0 +1,134 @@
+locality,type,region,full_locality_name,fips_id,countyfp
+Accomack,County,Eastern,Accomack County,51001,001
+Albemarle,County,Central,Albemarle County,51003,003
+Alexandria,City,Northern,Alexandria City,51510,510
+Alleghany,County,Valley,Alleghany County,51005,005
+Amelia,County,Central,Amelia County,51007,007
+Amherst,County,West Central,Amherst County,51009,009
+Appomattox,County,West Central,Appomattox County,51011,011
+Arlington,County,Northern,Arlington County,51013,013
+Augusta,County,Valley,Augusta County,51015,015
+Bath,County,Valley,Bath County,51017,017
+Bedford,County,West Central,Bedford County,51019,019
+Bland,County,Southwest,Bland County,51021,021
+Botetourt,County,West Central,Botetourt County,51023,023
+Bristol,City,Southwest,Bristol City,51520,520
+Brunswick,County,Southside,Brunswick County,51025,025
+Buchanan,County,Southwest,Buchanan County,51027,027
+Buckingham,County,Southside,Buckingham County,51029,029
+Buena Vista,City,Valley,Buena Vista City,51530,530
+Campbell,County,West Central,Campbell County,51031,031
+Caroline,County,Central,Caroline County,51033,033
+Carroll,County,Southwest,Carroll County,51035,035
+Charles City,County,Central,Charles City County,51036,036
+Charlotte,County,Southside,Charlotte County,51037,037
+Charlottesville,City,Central,Charlottesville City,51540,540
+Chesapeake,City,Hampton Roads,Chesapeake City,51550,550
+Chesterfield,County,Central,Chesterfield County,51041,041
+Clarke,County,Northern,Clarke County,51043,043
+Colonial Heights,City,Central,Colonial Heights City,51570,570
+Covington,City,Valley,Covington City,51580,580
+Craig,County,West Central,Craig County,51045,045
+Culpeper,County,Northern,Culpeper County,51047,047
+Cumberland,County,Southside,Cumberland County,51049,049
+Danville,City,Southside,Danville City,51590,590
+Dickenson,County,Southwest,Dickenson County,51051,051
+Dinwiddie,County,Central,Dinwiddie County,51053,053
+Emporia,City,Southside,Emporia City,51595,595
+Essex,County,Eastern,Essex County,51057,057
+Fairfax,City,Northern,Fairfax City,51600,600
+Fairfax,County,Northern,Fairfax County,51059,059
+Falls Church,City,Northern,Falls Church City,51610,610
+Fauquier,County,Northern,Fauquier County,51061,061
+Floyd,County,West Central,Floyd County,51063,063
+Fluvanna,County,Central,Fluvanna County,51065,065
+Franklin,City,Southside,Franklin City,51620,620
+Franklin,County,West Central,Franklin County,51067,067
+Frederick,County,Valley,Frederick County,51069,069
+Fredericksburg,City,Northern,Fredericksburg City,51630,630
+Galax,City,Southwest,Galax City,51640,640
+Giles,County,West Central,Giles County,51071,071
+Gloucester,County,Hampton Roads,Gloucester County,51073,073
+Goochland,County,Central,Goochland County,51075,075
+Grayson,County,Southwest,Grayson County,51077,077
+Greene,County,Central,Greene County,51079,079
+Greensville,County,Southside,Greensville County,51081,081
+Halifax,County,Southside,Halifax County,51083,083
+Hampton,City,Hampton Roads,Hampton City,51650,650
+Hanover,County,Central,Hanover County,51085,085
+Harrisonburg,City,Valley,Harrisonburg City,51660,660
+Henrico,County,Central,Henrico County,51087,087
+Henry,County,Southside,Henry County,51089,089
+Highland,County,Valley,Highland County,51091,091
+Hopewell,City,Central,Hopewell City,51670,670
+Isle of Wight,County,Hampton Roads,Isle of Wight County,51093,093
+James City,County,Hampton Roads,James City County,51095,095
+King & Queen,County,Eastern,King & Queen County,51097,097
+King George,County,Northern,King George County,51099,099
+King William,County,Central,King William County,51101,101
+Lancaster,County,Eastern,Lancaster County,51103,103
+Lee,County,Southwest,Lee County,51105,105
+Lexington,City,Valley,Lexington City,51678,678
+Loudoun,County,Northern,Loudoun County,51107,107
+Louisa,County,Central,Louisa County,51109,109
+Lunenburg,County,Southside,Lunenburg County,51111,111
+Lynchburg,City,West Central,Lynchburg City,51680,680
+Madison,County,Central,Madison County,51113,113
+Manassas,City,Northern,Manassas City,51683,683
+Manassas Park,City,Northern,Manassas Park City,51685,685
+Martinsville,City,Southside,Martinsville City,51690,690
+Mathews,County,Hampton Roads,Mathews County,51115,115
+Mecklenburg,County,Southside,Mecklenburg County,51117,117
+Middlesex,County,Eastern,Middlesex County,51119,119
+Montgomery,County,West Central,Montgomery County,51121,121
+Nelson,County,Central,Nelson County,51125,125
+New Kent,County,Central,New Kent County,51127,127
+Newport News,City,Hampton Roads,Newport News City,51700,700
+Norfolk,City,Hampton Roads,Norfolk City,51710,710
+Northhampton,County,Eastern,Northhampton County,51131,131
+Northumberland,County,Eastern,Northumberland County,51133,133
+Norton,City,Southwest,Norton City,51720,720
+Nottoway,County,Southside,Nottoway County,51135,135
+Orange,County,Central,Orange County,51137,137
+Page,County,Valley,Page County,51139,139
+Patrick,County,Southside,Patrick County,51141,141
+Petersburg,City,Central,Petersburg City,51730,730
+Pittsylvania,County,Southside,Pittsylvania County,51143,143
+Poquoson,City,Hampton Roads,Poquoson City,51735,735
+Portsmouth,City,Hampton Roads,Portsmouth City,51740,740
+Powhatan,County,Central,Powhatan County,51145,145
+Prince Edward,County,Southside,Prince Edward County,51147,147
+Prince George,County,Central,Prince George County,51149,149
+Prince William,County,Northern,Prince William County,51153,153
+Pulaski,County,West Central,Pulaski County,51155,155
+Radford,City,West Central,Radford City,51750,750
+Rappahannock,County,Northern,Rappahannock County,51157,157
+Richmond,City,Central,Richmond City,51760,760
+Richmond,County,Eastern,Richmond County,51159,159
+Roanoke,City,West Central,Roanoke City,51770,770
+Roanoke,County,West Central,Roanoke County,51161,161
+Rockbridge,County,Valley,Rockbridge County,51163,163
+Rockingham,County,Valley,Rockingham County,51165,165
+Russell,County,Southwest,Russell County,51167,167
+Salem,City,West Central,Salem City,51775,775
+Scott,County,Southwest,Scott County,51169,169
+Shenandoah,County,Valley,Shenandoah County,51171,171
+Smyth,County,Southwest,Smyth County,51173,173
+Southampton,County,Southside,Southampton County,51175,175
+Spotsylvania,County,Northern,Spotsylvania County,51177,177
+Stafford,County,Northern,Stafford County,51179,179
+Stauton,City,Valley,Stauton City,51790,790
+Suffolk,City,Hampton Roads,Suffolk City,51800,800
+Surry,County,Hampton Roads,Surry County,51181,181
+Sussex,County,Southside,Sussex County,51183,183
+Tazewell,County,Southwest,Tazewell County,51185,185
+Virginia Beach,City,Hampton Roads,Virginia Beach City,51810,810
+Warren,County,Northern,Warren County,51187,187
+Washington,County,Southwest,Washington County,51191,191
+Waynesboro,City,Valley,Waynesboro City,51820,820
+Westmoreland,County,Eastern,Westmoreland County,51193,193
+Williamsburg,City,Hampton Roads,Williamsburg City,51830,830
+Winchester,City,Valley,Winchester City,51840,840
+Wise,County,Southwest,Wise County,51195,195
+Wythe,County,Southwest,Wythe County,51197,197
+York,County,Hampton Roads,York County,51199,199
