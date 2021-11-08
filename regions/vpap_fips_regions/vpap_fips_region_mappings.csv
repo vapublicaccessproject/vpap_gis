@@ -1,0 +1,135 @@
+fips_id,locality,region_id,region
+51001,Accomack County,1,Chesapeake Bay
+51003,Albemarle County,5,Piedmont
+51005,Alleghany County,8,Valley of Virginia
+51007,Amelia County,6,Southside Virginia
+51009,Amherst County,5,Piedmont
+51011,Appomattox County,6,Southside Virginia
+51013,Arlington County,4,Northern Virginia
+51015,Augusta County,8,Valley of Virginia
+51017,Bath County,8,Valley of Virginia
+51019,Bedford County,6,Southside Virginia
+51021,Bland County,7,Southwest Virginia
+51023,Botetourt County,8,Valley of Virginia
+51025,Brunswick County,6,Southside Virginia
+51027,Buchanan County,7,Southwest Virginia
+51029,Buckingham County,6,Southside Virginia
+51031,Campbell County,6,Southside Virginia
+51033,Caroline County,5,Piedmont
+51035,Carroll County,7,Southwest Virginia
+51036,Charles City County,2,Capital Region
+51037,Charlotte County,6,Southside Virginia
+51041,Chesterfield County,2,Capital Region
+51043,Clarke County,8,Valley of Virginia
+51045,Craig County,8,Valley of Virginia
+51047,Culpeper County,5,Piedmont
+51049,Cumberland County,6,Southside Virginia
+51051,Dickenson County,7,Southwest Virginia
+51053,Dinwiddie County,6,Southside Virginia
+51057,Essex County,1,Chesapeake Bay
+51059,Fairfax County,4,Northern Virginia
+51061,Fauquier County,4,Northern Virginia
+51063,Floyd County,7,Southwest Virginia
+51065,Fluvanna County,5,Piedmont
+51067,Franklin County,6,Southside Virginia
+51069,Frederick County,8,Valley of Virginia
+51071,Giles County,7,Southwest Virginia
+51073,Gloucester County,1,Chesapeake Bay
+51075,Goochland County,2,Capital Region
+51077,Grayson County,7,Southwest Virginia
+51079,Greene County,5,Piedmont
+51081,Greensville County,6,Southside Virginia
+51083,Halifax County,6,Southside Virginia
+51085,Hanover County,2,Capital Region
+51087,Henrico County,2,Capital Region
+51089,Henry County,6,Southside Virginia
+51091,Highland County,8,Valley of Virginia
+51093,Isle of Wight County,6,Southside Virginia
+51095,James City County,3,Hampton Roads
+51097,King & Queen County,1,Chesapeake Bay
+51099,King George County,1,Chesapeake Bay
+51101,King William County,1,Chesapeake Bay
+51103,Lancaster County,1,Chesapeake Bay
+51105,Lee County,7,Southwest Virginia
+51107,Loudoun County,4,Northern Virginia
+51109,Louisa County,5,Piedmont
+51111,Lunenburg County,6,Southside Virginia
+51113,Madison County,5,Piedmont
+51115,Mathews County,1,Chesapeake Bay
+51117,Mecklenburg County,6,Southside Virginia
+51119,Middlesex County,1,Chesapeake Bay
+51121,Montgomery County,7,Southwest Virginia
+51125,Nelson County,5,Piedmont
+51127,New Kent County,2,Capital Region
+51131,Northampton County,1,Chesapeake Bay
+51133,Northumberland County,1,Chesapeake Bay
+51135,Nottoway County,6,Southside Virginia
+51137,Orange County,5,Piedmont
+51139,Page County,8,Valley of Virginia
+51141,Patrick County,6,Southside Virginia
+51143,Pittsylvania County,6,Southside Virginia
+51145,Powhatan County,2,Capital Region
+51147,Prince Edward County,6,Southside Virginia
+51149,Prince George County,2,Capital Region
+51153,Prince William County,4,Northern Virginia
+51155,Pulaski County,7,Southwest Virginia
+51157,Rappahannock County,5,Piedmont
+51159,Richmond County,1,Chesapeake Bay
+51161,Roanoke County,8,Valley of Virginia
+51163,Rockbridge County,8,Valley of Virginia
+51165,Rockingham County,8,Valley of Virginia
+51167,Russell County,7,Southwest Virginia
+51169,Scott County,7,Southwest Virginia
+51171,Shenandoah County,8,Valley of Virginia
+51173,Smyth County,7,Southwest Virginia
+51175,Southampton County,6,Southside Virginia
+51177,Spotsylvania County,5,Piedmont
+51179,Stafford County,5,Piedmont
+51181,Surry County,6,Southside Virginia
+51183,Sussex County,6,Southside Virginia
+51185,Tazewell County,7,Southwest Virginia
+51187,Warren County,8,Valley of Virginia
+51191,Washington County,7,Southwest Virginia
+51193,Westmoreland County,1,Chesapeake Bay
+51195,Wise County,7,Southwest Virginia
+51197,Wythe County,7,Southwest Virginia
+51199,York County,3,Hampton Roads
+51510,Alexandria City,4,Northern Virginia
+51515,Bedford City,6,Southside Virginia
+51520,Bristol City,7,Southwest Virginia
+51530,Buena Vista City,8,Valley of Virginia
+51540,Charlottesville City,5,Piedmont
+51550,Chesapeake City,3,Hampton Roads
+51570,Colonial Heights City,2,Capital Region
+51580,Covington City,8,Valley of Virginia
+51590,Danville City,6,Southside Virginia
+51595,Emporia City,6,Southside Virginia
+51600,Fairfax City,4,Northern Virginia
+51610,Falls Church City,4,Northern Virginia
+51620,Franklin City,6,Southside Virginia
+51630,Fredericksburg City,5,Piedmont
+51640,Galax City,7,Southwest Virginia
+51650,Hampton City,3,Hampton Roads
+51660,Harrisonburg City,8,Valley of Virginia
+51670,Hopewell City,2,Capital Region
+51678,Lexington City,8,Valley of Virginia
+51680,Lynchburg City,6,Southside Virginia
+51683,Manassas City,4,Northern Virginia
+51685,Manassas Park City,4,Northern Virginia
+51690,Martinsville City,6,Southside Virginia
+51700,Newport News City,3,Hampton Roads
+51710,Norfolk City,3,Hampton Roads
+51720,Norton City,7,Southwest Virginia
+51730,Petersburg City,2,Capital Region
+51735,Poquoson City,3,Hampton Roads
+51740,Portsmouth City,3,Hampton Roads
+51750,Radford City,7,Southwest Virginia
+51760,Richmond City,2,Capital Region
+51770,Roanoke City,8,Valley of Virginia
+51775,Salem City,8,Valley of Virginia
+51790,Staunton City,8,Valley of Virginia
+51800,Suffolk City,3,Hampton Roads
+51810,Virginia Beach City,3,Hampton Roads
+51820,Waynesboro City,8,Valley of Virginia
+51830,Williamsburg City,3,Hampton Roads
+51840,Winchester City,8,Valley of Virginia
